@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "d0a0be511d763e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3f8deea8dfc1ad4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f59a218d831f899b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a4dd53af66c7daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "9678fcac4b4bc13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a30bee90fd1ea563",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7c910fa176a7687b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "13c392d11fae7f60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "439e27a31e156f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa709aeff6756e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d145ba1eeb49fe1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prueba.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Prueba"
+            }
+          },
+          {
+            "id": "5b06f407e7e9fe04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prueba.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Prueba"
+            }
+          },
+          {
+            "id": "0d9486adbd739b02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "964955bdddfe2a5b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "746b8cd7415fc81c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prueba.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Prueba"
+            }
+          },
+          {
+            "id": "eb42f341e1f831b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f59a218d831f899b",
+  "lastOpenFiles": [
+    "Bienvenido.md",
+    "Prueba.md",
+    "README.md",
+    "pnpm-lock.yaml",
+    "package.json",
+    "netlify.toml",
+    "LICENSE.md",
+    "hugoblox.yaml",
+    "go.mod",
+    "static/uploads/resume.pdf",
+    "static/uploads",
+    "static",
+    "layouts/_partials/hooks/head-end/github-button.html",
+    "layouts/_partials/hooks/head-end",
+    "content/slides/example/index.md",
+    "content/publications/preprint/index.md",
+    "content/publications/preprint/featured.jpg",
+    "content/publications/journal-article/index.md",
+    "content/publications/journal-article/featured.jpg",
+    "content/publications/conference-paper/index.md",
+    "content/publications/conference-paper/featured.jpg",
+    "content/publications/_index.md",
+    "content/projects/scikit/index.md",
+    "content/projects/scikit/featured.png",
+    "content/projects/pytorch/index.md",
+    "content/projects/pytorch/featured.png",
+    "content/projects/pandas/index.md",
+    "content/projects/pandas/featured.png",
+    "content/projects/_index.md",
+    "content/events/example/index.md",
+    "content/events/example/featured.jpg",
+    "content/events/_index.md",
+    "content/courses/hugo-blox/reference/_index.md",
+    "content/courses/hugo-blox/reference/i18n.md",
+    "content/courses/hugo-blox/reference/customization.md",
+    "content/courses/hugo-blox/guide/formatting/toggle.md",
+    "content/courses/hugo-blox/guide/formatting/steps.md",
+    "content/courses/hugo-blox/guide/formatting/media.md",
+    "content/courses/hugo-blox/guide/formatting/cards.md",
+    "content/courses/hugo-blox/guide/formatting/callout.md",
+    "content/courses/hugo-blox/guide/formatting/button.md",
+    "content/courses/hugo-blox/guide/formatting/_index.md",
+    "content/courses/hugo-blox/guide/_index.md",
+    "content/courses/hugo-blox/featured.jpg",
+    "content/blog/teach-courses/featured.jpg",
+    "content/blog/second-brain/featured.jpg"
+  ]
+}
