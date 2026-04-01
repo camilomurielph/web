@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f0b54e25207ab5c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ae4f4dc917f8d454",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -180,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Bienvenido"
             }
+          },
+          {
+            "id": "eb42f341e1f831b4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +190,8 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "f59a218d831f899b",
