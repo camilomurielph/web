@@ -11,10 +11,14 @@
             "id": "f59a218d831f899b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Mi Primera Nota.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Mi Primera Nota"
             }
           }
         ]
@@ -190,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a30bee90fd1ea563",
+  "active": "f59a218d831f899b",
   "lastOpenFiles": [
+    "content/notes/Mi primera nota.md",
+    "content/notes/Mi Primera Nota.md",
     "content/notes",
     "Bienvenido.md",
     "Prueba.md",
@@ -206,7 +212,6 @@
     "static/uploads",
     "static",
     "layouts/_partials/hooks/head-end/github-button.html",
-    "layouts/_partials/hooks/head-end",
     "content/slides/example/index.md",
     "content/publications/preprint/index.md",
     "content/publications/preprint/featured.jpg",
@@ -234,7 +239,6 @@
     "content/courses/hugo-blox/guide/formatting/cards.md",
     "content/courses/hugo-blox/guide/formatting/callout.md",
     "content/courses/hugo-blox/guide/formatting/button.md",
-    "content/courses/hugo-blox/guide/formatting/_index.md",
     "content/courses/hugo-blox/featured.jpg",
     "content/blog/teach-courses/featured.jpg",
     "content/blog/second-brain/featured.jpg"
