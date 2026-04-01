@@ -1,6 +1,6 @@
 ---
 title: Mi Primera Nota
 date: 2026-04-01
-draft: "false"
+draft: "true"
 ---
 Introducción de mi primera nota

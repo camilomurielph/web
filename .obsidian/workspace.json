@@ -196,8 +196,10 @@
   },
   "active": "f59a218d831f899b",
   "lastOpenFiles": [
-    "content/notes/Mi primera nota.md",
+    "assets/media/slides-logo.svg",
+    "assets/media/authors/me.png",
     "content/notes/Mi Primera Nota.md",
+    "content/notes/Mi primera nota.md",
     "content/notes",
     "Bienvenido.md",
     "Prueba.md",
@@ -238,9 +240,7 @@
     "content/courses/hugo-blox/guide/formatting/media.md",
     "content/courses/hugo-blox/guide/formatting/cards.md",
     "content/courses/hugo-blox/guide/formatting/callout.md",
-    "content/courses/hugo-blox/guide/formatting/button.md",
     "content/courses/hugo-blox/featured.jpg",
-    "content/blog/teach-courses/featured.jpg",
-    "content/blog/second-brain/featured.jpg"
+    "content/blog/teach-courses/featured.jpg"
   ]
 }
