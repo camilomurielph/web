@@ -2,48 +2,46 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Camilo Muriel
+  given: Camilo
+  family: Muriel
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: 
 postnominals:
   - PhD
   - MIEEE
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "📸"
+role: Diseñador Gráfico y Creativo
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Diseñador gráfico independiente, videógrafo y fotógrafo con ojo experto.
+  Convierto conceptos en imágenes que conectan y elevan tu marca.
+  Diseñador gráfico independiente, videógrafo y fotógrafo con ojo experto.
+  Convierto conceptos en imágenes que conectan y elevan tu marca.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Digital Crow
+    url: https://camilomurielph.github.io/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:camilomurielph@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/camilomurielph
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/camilo-muriel-2b9185216/
+  - icon: brands/behance
+    url: https://www.behance.net/camilomurielg
+  - icon: brands/instagram
+    url: https://www.instagram.com/camilomurielph
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Diseño Gráfico
+  - Fotografía
+  - Diseño
+  - Edición de vídeo
 
 education:
   - degree: PhD Computer Science

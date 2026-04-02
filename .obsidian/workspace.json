@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Mi Primera Nota.md",
+                "file": "content/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Mi Primera Nota"
+              "title": "_index"
             }
           }
         ]
@@ -194,8 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb42f341e1f831b4",
+  "active": "f59a218d831f899b",
   "lastOpenFiles": [
+    "content/authors/_index.md",
+    "content/_index.md",
+    "assets/media/slides-logo.svg",
+    "assets/media/authors/me.png",
+    "content/blog/notebook-onboarding/index.md",
+    "content/blog/notebook-onboarding/featured.jpg",
+    "content/blog/notebook-onboarding/cover.jpg",
+    "content/blog/_index.md",
+    "content/experience.md",
+    "content/notes/Mi Primera Nota.md",
     "public/blog/teach-courses/featured_hu_dcb0da645ef010b.webp",
     "node_modules/@tailwindcss/oxide-win32-x64-msvc/package.json",
     "node_modules/tapable/lib/SyncWaterfallHook.js",
@@ -208,7 +218,6 @@
     "node_modules/is-glob/package.json",
     "node_modules/picomatch/package.json",
     "public/events/example/featured.jpg",
-    "content/notes/Mi Primera Nota.md",
     "public/publications/conference-paper/featured.jpg",
     "node_modules/@pagefind/windows-x64/README.md",
     "node_modules/preact/README.md",
@@ -229,18 +238,8 @@
     "node_modules/mri/readme.md",
     "node_modules/@parcel/watcher-win32-x64/README.md",
     "node_modules/@tailwindcss/oxide-win32-x64-msvc/README.md",
-    "node_modules/mri/license.md",
-    "node_modules/util-deprecate/History.md",
-    "node_modules/cssesc/README.md",
-    "node_modules/is-extglob/README.md",
-    "node_modules/lightningcss-win32-x64-msvc/README.md",
     "public/projects/pandas/featured_hu_c11b331bd096bf42.webp",
     "public/projects/pandas/featured_hu_bbab331300b42c1.webp",
-    "resources/_gen/images/projects/pandas/featured_hu_bbab331300b42c1.webp",
-    "public/projects/pandas/featured_hu_fa7f663f63a7f6eb.webp",
-    "resources/_gen/images/projects/pandas/featured_hu_fa7f663f63a7f6eb.webp",
-    "public/projects/pandas/featured_hu_7070e56f5b374002.webp",
-    "resources/_gen/images/projects/pandas/featured_hu_7070e56f5b374002.webp",
-    "resources/_gen/images/projects/pandas/featured_hu_c11b331bd096bf42.webp"
+    "resources/_gen/images/projects/pandas/featured_hu_bbab331300b42c1.webp"
   ]
 }
