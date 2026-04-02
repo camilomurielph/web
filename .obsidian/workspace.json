@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a30bee90fd1ea563",
+  "active": "eb42f341e1f831b4",
   "lastOpenFiles": [
+    "content/authors/_index.md",
     "content/_index.md",
     "node_modules/picomatch/README.md",
     "content/courses/hugo-blox/guide/formatting/button.md",
@@ -228,7 +229,6 @@
     "content/logos/preprint/index.md",
     "content/notes/Mi Primera Nota.md",
     "content/logos/Sin título.md",
-    "content/authors/_index.md",
     "content/blog/notebook-onboarding/index.md",
     "content/blog/_index.md",
     "content/experience.md",
