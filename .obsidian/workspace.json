@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/index.md",
+                "file": "000 GUIA/000 - Home Guía.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "000 - Home Guía"
             }
           }
         ]
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f59a218d831f899b",
+  "active": "a30bee90fd1ea563",
   "lastOpenFiles": [
-    "pagina-web/index.md",
     "index.md",
+    "000 GUIA/000 - Home Guía.md",
     "quartz/content/index.md",
+    "pagina-web/index.md",
     "quartz/content",
     "quartz/Nueva carpeta",
     "Nueva carpeta",
@@ -231,7 +232,6 @@
     "quartz/node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
     "quartz/node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
     "quartz/node_modules/@parcel/watcher/node_modules/picomatch/README.md",
-    "quartz/node_modules/vfile/node_modules/vfile-message/readme.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
