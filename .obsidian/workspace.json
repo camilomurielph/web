@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 GUIA/000 - Home Guía.md",
+                "file": "quartz/content/Siguientes pasos a seguir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 - Home Guía"
+              "title": "Siguientes pasos a seguir"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "439e27a31e156f2a",
@@ -194,22 +194,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a30bee90fd1ea563",
+  "active": "f59a218d831f899b",
   "lastOpenFiles": [
-    "index.md",
-    "000 GUIA/000 - Home Guía.md",
+    "quartz/docs/configuration.md",
+    "quartz/public/logos/Logo-de-prueba-og-image.webp",
+    "quartz/public/index-og-image.webp",
+    "quartz/public/static/giscus/light.css",
+    "quartz/public/static/giscus/dark.css",
+    "quartz/public/postscript.js",
+    "quartz/public/static/og-image.png",
+    "quartz/public/prescript.js",
+    "quartz/public/static/icon.png",
+    "quartz/public/index.css",
+    "quartz/public/logos/Logo-de-prueba.html",
+    "quartz/public/static/contentIndex.json",
+    "quartz/public/Siguientes-pasos-a-seguir-og-image.webp",
+    "quartz/docs/hosting.md",
+    "quartz/docs/showcase.md",
+    "quartz/node_modules/prettier/THIRD-PARTY-NOTICES.md",
+    "quartz/content/logos/Logo de prueba.md",
+    "quartz/public/logos/Sin-título-og-image.webp",
+    "quartz/public/logos/index.html",
+    "quartz/public/logos/Sin-título.html",
+    "quartz/public/logos",
+    "quartz/content/Siguientes pasos a seguir.md",
     "quartz/content/index.md",
+    "quartz/README.md",
+    "quartz/CODE_OF_CONDUCT.md",
+    "000 GUIA/Notas/Previsualizar tu página web.md",
+    "000 GUIA/000 - Home Guía.md",
+    "index.md",
     "pagina-web/index.md",
-    "quartz/content",
-    "quartz/Nueva carpeta",
-    "Nueva carpeta",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-variant.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-size4.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-size3.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-oldstyle.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-oldstyle-bold.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-mathit.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-calligraphic.js",
     "quartz/node_modules/vfile-location/node_modules/@types/unist/README.md",
     "quartz/node_modules/vfile/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-visit-parents/node_modules/@types/unist/README.md",
@@ -223,24 +238,9 @@
     "quartz/node_modules/unified/node_modules/@types/unist/README.md",
     "quartz/node_modules/parse-latin/node_modules/@types/unist/README.md",
     "quartz/node_modules/mdast-util-to-markdown/node_modules/@types/unist/README.md",
-    "quartz/node_modules/mdast-util-mdx-jsx/node_modules/@types/unist/README.md",
-    "quartz/node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-to-jsx-runtime/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-to-html/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-raw/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-from-parse5/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-from-html/node_modules/@types/unist/README.md",
-    "quartz/node_modules/@parcel/watcher/node_modules/picomatch/README.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
-    "quartz/node_modules/gifuct-js/demo/jblack.gif",
-    "quartz/node_modules/gifuct-js/demo/horses.gif",
-    "quartz/node_modules/gifuct-js/demo/dog.gif",
-    "quartz/node_modules/cli-spinner/img/spinner.gif",
-    "quartz/quartz/static/og-image.png",
-    "quartz/quartz/static/icon.png",
-    "quartz/docs/images/social-image-preview-light.png"
+    "quartz/node_modules/gifuct-js/demo/jblack.gif"
   ]
 }
