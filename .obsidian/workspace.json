@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pagina-web/index.md",
+                "file": "quartz/content/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,8 +196,8 @@
   },
   "active": "f59a218d831f899b",
   "lastOpenFiles": [
-    "index.md",
     "pagina-web/index.md",
+    "index.md",
     "quartz/content/index.md",
     "quartz/content",
     "quartz/Nueva carpeta",
